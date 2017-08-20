@@ -376,6 +376,15 @@ footer .social li {
     text-decoration: none;
     background-color: #FB104E;
     border-radius: 50%;
+    cursor:pointer;
+}
+a#back-top {
+    z-index: 99999;
+    position: absolute;
+    right: 2rem;
+    margin-bottom: 1rem;
+    font-size: 2rem;
+    color: #FB104E;
 }
 
 /*'how it works' section styles*/
